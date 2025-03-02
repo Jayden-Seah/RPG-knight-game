@@ -10,8 +10,8 @@ print("Starting...")
 #Sprites
 #Knight graphics
 KNIGHT_GRAPHICS = [
-    "images\characters\knight\knight_idle_anim_f0.png",
-    "images\characters\knight\knight_run_anim_f0.png"
+    "images/characters/knight/knight_idle_anim_f0.png",
+    "images/characters/knight/knight_run_anim_f0.png"
 ]
 
 #Set up
